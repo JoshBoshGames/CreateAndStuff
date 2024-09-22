@@ -1,0 +1,332 @@
+{
+  "profession": "dynamicvillage:hydraulic_engineer",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "create:copper_sheet",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 8,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:dried_kelp",
+        "amount": 20,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 8,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "create:fluid_pipe",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:copper_ingot",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "create:copper_diving_helmet",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{Damage:0}"
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 24,
+      "maxUses": 3,
+      "priceMultiplier": 0.04,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createbb:white_meth",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "create:copper_casing",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "create:spout",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 12,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "create:fluid_tank",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "create:mechanical_pump",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createbb:blue_meth",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "create:copper_casing",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:fluid_tank",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 10,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:mechanical_mixer",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:fluid_valve",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 16,
+      "maxUses": 4,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "create:large_water_wheel",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 6,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "create:honeyed_apple",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 16,
+      "maxUses": 3,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "create:copper_diving_boots",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{Damage:0}"
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 16,
+      "maxUses": 3,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "create:copper_backtank",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 7,
+        "priceModifier": 0
+      },
+      "tradeExp": 16,
+      "maxUses": 3,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

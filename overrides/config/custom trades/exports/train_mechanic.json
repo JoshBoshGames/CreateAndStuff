@@ -1,0 +1,296 @@
+{
+  "profession": "dynamicvillage:train_mechanic",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_ingot",
+        "amount": 7,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 8,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "create:train_door",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 12,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "create:steam_whistle",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 8,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createbb:white_meth",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "create:track",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 8,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "create:track_station",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "create:display_board",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 12,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createbb:blue_meth",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "create:track",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 8,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:display_link",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 10,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:schedule",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 16,
+      "maxUses": 4,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:placard",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 16,
+      "maxUses": 3,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:controls",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 7,
+        "priceModifier": 0
+      },
+      "tradeExp": 12,
+      "maxUses": 4,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "create:railway_casing",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 8,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "create:portable_storage_interface",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "create:item_vault",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 9,
+        "priceModifier": 0
+      },
+      "tradeExp": 24,
+      "maxUses": 2,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "create:sturdy_sheet",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.01,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

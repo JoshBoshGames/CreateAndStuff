@@ -1,0 +1,41 @@
+{
+  "profession": "minecraft:none",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createbb:white_meth",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createbb:blue_meth",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 3
+    }
+  ]
+}

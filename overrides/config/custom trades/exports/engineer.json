@@ -1,0 +1,328 @@
+{
+  "profession": "immersiveengineering:engineer",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:air",
+        "amount": 0,
+        "priceModifier": 0,
+        "advancedNBTData": "{}"
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:treated_scaffold",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:balloon",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createbb:white_meth",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:air",
+        "amount": 0,
+        "priceModifier": 0,
+        "advancedNBTData": "{}"
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:air",
+        "amount": 0,
+        "priceModifier": 0,
+        "advancedNBTData": "{}"
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:steel_scaffolding_standard",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:alu_scaffolding_standard",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createbb:blue_meth",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 10,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:wirecoil_structure_rope",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "immersiveengineering:connector_structural",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "immersiveengineering:concrete",
+        "amount": 7,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:concrete_leaded",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "immersiveengineering:treated_post",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "immersiveengineering:insulating_glass",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "immersiveengineering:duroplast",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:filled_map",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{Decorations:[{id:\"ie:coresample_treasure\",rot:180.0d,type:26b,x:-818.0d,z:-1541.0d}],display:{Lore:[\u0027{\"translate\":\"desc.immersiveengineering.info.mineral.amethyst_crevasse\"}\u0027],Name:\u0027{\"translate\":\"item.immersiveengineering.map_orevein\"}\u0027},map:3}"
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:compass",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 1,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:filled_map",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{Decorations:[{id:\"ie:coresample_treasure\",rot:180.0d,type:26b,x:-673.0d,z:-1738.0d}],display:{Lore:[\u0027{\"translate\":\"desc.immersiveengineering.info.mineral.beryl\"}\u0027],Name:\u0027{\"translate\":\"item.immersiveengineering.map_orevein\"}\u0027},map:5}"
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 11,
+        "priceModifier": 0
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:compass",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 1,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}
