@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Create and Stuff",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "author": "",
   "files": [
     {
@@ -696,7 +696,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 5106178,
+      "fileID": 5846858,
       "required": true
     },
     {
@@ -856,7 +856,7 @@
     },
     {
       "projectID": 790626,
-      "fileID": 5399366,
+      "fileID": 5803581,
       "required": true
     },
     {
@@ -926,7 +926,7 @@
     },
     {
       "projectID": 633823,
-      "fileID": 5149997,
+      "fileID": 5739465,
       "required": true
     },
     {
